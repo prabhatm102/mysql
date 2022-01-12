@@ -1,0 +1,8 @@
+{
+    "jwtPrivateKey":"mysql_jwtPrivateKey",
+    "HOST":"mysql_HOST",
+    "USER":"mysql_USER",
+    "PASSWORD":"mysql_PASSWORD",
+    "DATABASE":"mysql_DATABASE"
+
+}
